@@ -1,0 +1,22 @@
+{
+    "cursos": [
+      {
+        "id": 1,
+        "nombre": "Introducción a JavaScript",
+        "descripcion": "Curso básico de JS",
+        "duracion": 4,
+        "precio": 200.5,
+        "fechaInicio": "2025-03-01T10:00:00",
+        "docenteId": 1
+      }
+    ],
+    "docentes": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "documento": "123456789",
+        "correo": "juan@example.com"
+      }
+    ]
+  }
+  
